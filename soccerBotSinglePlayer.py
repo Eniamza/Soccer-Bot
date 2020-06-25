@@ -75,4 +75,4 @@ async def on_message(message):
 				await message.channel.send("You lose!")
 			matchStarter = False
 
-client.run('DISCORD_TOKEN')
+client.run('NzI1NzIyNTMxOTE4Nzc0Mjg0.XvS30A.NyW1bgTZEA-_utc1I0RXoO9aO7c')
